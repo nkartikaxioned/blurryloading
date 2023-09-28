@@ -113,14 +113,14 @@ li {
 
 /* blurry loading style start */
 
-.blurry-loading {
+.blurry_loading {
   width: 100%;
   height: 100vh;
   position: relative;
   opacity: .9;
 }
 
-.blurry-loading figure {
+.blurry_loading figure {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -129,7 +129,7 @@ li {
   left: 0;
 }
 
-.blurry-loading figure img {
+.blurry_loading figure img {
 width: 100%;
 height: 100%;
 object-fit: cover;
@@ -140,7 +140,7 @@ object-fit: cover;
 
 /* incremental-text style start */
 
-.incremental-text {
+.incremental_text {
   position: absolute;
   top: 50%;
   left: 50%;
